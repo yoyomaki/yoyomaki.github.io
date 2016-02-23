@@ -87,3 +87,5 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
       </ul>
   </div>
 </div>
+
+<a href="http://www.freecounterstat.com" title="hit counter"><img src="http://counter10.fcs.ovh/private/freecounterstat.php?c=9b5c46f0e015eb013221afcee4e7a639" border="0" title="hit counter" alt="hit counter"></a>
