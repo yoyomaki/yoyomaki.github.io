@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-    color: darkslateblue;
+    color: #909090 ;
     background-color: #e3e4fa;
     text-decoration: none;
 }
@@ -59,4 +59,8 @@ td.right {
 
 h1, h2, h3, h4 {
     color: darkslateblue;
+}
+
+h5 {
+    color: #909090;
 }
