@@ -15,7 +15,7 @@ keywords: Computer Science, Combinatorics, Optimization, Computational Mathemati
   </div>
 </div>
 
-Hi, I'am Qian Qiao(乔谦 in Chinese). Many English speakers find it is hard to pronounce my Chinese name, so you can call me Flora if you like.
+Hi, I'm Qian Qiao(乔谦 in Chinese). Many English speakers find it is hard to pronounce my Chinese name, so you can call me Flora if you like.
 
 I am a senior student at [University of Waterloo](https://uwaterloo.ca), double major in [Computer Science](https://cs.uwaterloo.ca), and [Combinatorics & Optimization](https://uwaterloo.ca/combinatorics-and-optimization/). I will receive Bachelor of Mathematics(Computer Science) in June 2016. My academic interests focus on Numerical Analysis, Data Mining, Computational Photography, etc.
 
