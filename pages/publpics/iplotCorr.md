@@ -21,4 +21,4 @@ interactive data visualizations for QTL data<br/>
 **Figure**. &mdash; Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
 matrix; click a pixel and the corresponding scatterplot is shown on
-the right.
+the right. test
