@@ -24,11 +24,15 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
 
 
 ---
+
+<div class="container">
+<h4><a name="Selected Projects"></a>Selected Projects</h4>
+</div>
 <table class="wide">
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/publpics/Sudoku_solver_cover.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
@@ -75,8 +79,8 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/Qian_2015.jpg">
-            <img src="../assets/pics/Qian_2015_small.jpg"
+        <a href="assets/pics/Qian_2015.jpg">
+            <img src="assets/pics/Qian_2015_small.jpg"
                   title="Qian Qiao" alt="Qian Qiao"/></a>
         </div>
     </div>
@@ -97,7 +101,7 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
 <div id = "copyright">
 <br />
 <div style="text-align:center">
-Copyright Apr 9, 2010 -  
+Copyright Jan 6, 2015 -  
 <script language="JavaScript" type="text/javascript">
 var month=new Array(12);
 month[0]="Jan";
@@ -122,4 +126,3 @@ month[11]="Dec";
 Qian (Flora) Qiao Professional Webpage, All rights reserved.
 </div>
 </div>
-
