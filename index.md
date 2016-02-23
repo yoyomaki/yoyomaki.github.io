@@ -96,7 +96,7 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
 
 <div id = "copyright">
 <br />
-<h5 style="text-align:center">
+<div style="text-align:center">
 Copyright Apr 9, 2010 -  
 <script language="JavaScript" type="text/javascript">
 var month=new Array(12);
@@ -120,6 +120,6 @@ month[11]="Dec";
 </script>
 
 Qian (Flora) Qiao Professional Webpage, All rights reserved.
-</h1>
+</div>
 </div>
 
