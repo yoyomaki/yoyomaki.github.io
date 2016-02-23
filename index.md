@@ -2,7 +2,7 @@
 layout: frontpage
 title: Qian Qiao
 description: Qian Qiao is a senior student at University of Waterloo in Canada. Major interests are Computer Science and Computational Mathematics.
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+keywords: Computer Science, Combinatorics, Optimization, Computational Mathematics, Cryptography, Machine Learning, Data Mining
 ---
 
 <div class="navbar">
@@ -51,18 +51,16 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
     <div class="row-fluid">
         <div class="span5">
             Qian Qiao<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            University of Waterloo<br/>
+            Faculty of Mathematics<br/>
+            Waterloo, Ontario N2G3L1<br/>
+            Canada<br/><br/>
 
             <div id="hide_email">
             Email: <code>q</code><b>I</b><code>qiao</code><b>don't</b><code>@</code><b>want</b><code>u</code><b>spam!
             </b><code>waterloo</code><b>So</b><code>.</code><b>please</b><code>c</code><b>leave
             </b><code>o</code><b>me</b><code>m</code><b>alone!</b><br/>
-            Phone: 519-781-3527
+            Phone: <code>5</code><b>protect</b><code>1</code><b>protect</b><code>9</code><b>protect</b><code>-</code><b>protect</b><code>7</code><b>protect</b><code>8</code><b>protect</b><code>1</code><b>protect</b><code>-</code><b>protect</b><code>3</code><b>protect</b><code>5</code><b>protect</b><code>2</code><b>protect</b><code>7</code><b>protect</b></br>
             </div>
         </div>
 
@@ -73,6 +71,8 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
         </div>
     </div>
 </div>
+
+---
 
 <div class="navbar">
   <div class="navbar-inner">
