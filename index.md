@@ -83,7 +83,7 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="http://www.freecounterstat.com" title="hit counter">Visitors <img src="http://counter10.fcs.ovh/private/freecounterstat.php?c=9b5c46f0e015eb013221afcee4e7a639" border="0" title="hit counter" alt="hit counter"></a></li>
+          <li>Visitors<img src="http://counter10.fcs.ovh/private/freecounterstat.php?c=9b5c46f0e015eb013221afcee4e7a639" border="0" title="hit counter" alt="hit counter"></li>
           <li><a href="morefigs.html">see more figures</a></li>
       </ul>
   </div>
