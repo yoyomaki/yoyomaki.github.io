@@ -67,7 +67,6 @@ JB :
   tags_path : nil
   atom_path : nil
   rss_path : nil
-  MY_EMAIL: <span class="reverse">ac.oolretawu@oaiqq</span>
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
