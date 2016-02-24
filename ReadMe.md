@@ -1,6 +1,6 @@
 ## Qian (Flora) Qiao&rsquo;s website
 
-See [yoyomaki.github.io](http://yoyomaki.github.io).
+See [qian-qiao.com](http://qian-qiao.com).
 
 ---
 
