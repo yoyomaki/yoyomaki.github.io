@@ -88,12 +88,12 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
 
 ---
 
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="http://yoyomaki.github.io">
-          Visitors: <img src="http://counter10.fcs.ovh/private/freecounterstat.php?c=9b5c46f0e015eb013221afcee4e7a639" border="0" title="hit counter" alt="hit counter"></a></li>
-          <li><a href="morefigs.html">see more figures</a></li>
+          <li><a href="http://www.freecounterstat.com" title="hit counter"><img src="http://counter10.fcs.ovh/private/freecounterstat.php?c=f9ff317adeb8605efd68d108d70c6165" border="0" title="hit counter" alt="hit counter"></a></li>
+          <li><a href="morefigs.html">see more projects</a></li>
       </ul>
   </div>
 </div>
