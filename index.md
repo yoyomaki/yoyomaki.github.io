@@ -92,7 +92,7 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="qian-qiao.com" title="hit counter">Visitors: <img src="http://counter10.fcs.ovh/private/freecounterstat.php?c=f9ff317adeb8605efd68d108d70c6165" border="0" title="hit counter" alt="hit counter"></a></li>
+          <li><a href="http://qian-qiao.com" title="hit counter">Visitors: <img src="http://counter10.fcs.ovh/private/freecounterstat.php?c=f9ff317adeb8605efd68d108d70c6165" border="0" title="hit counter" alt="hit counter"></a></li>
           <li><a href="morefigs.html">see more projects</a></li>
       </ul>
   </div>
