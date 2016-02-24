@@ -10,7 +10,7 @@ keywords: Computer Science, Combinatorics, Optimization, Computational Mathemati
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Qian_CV.pdf">cv</a></li>
           <li><a href="https://github.com/yoyomaki">github</a></li>
-          <li><a href="https://ca.linkedin.com/in/qianqiao">linkedin</a></li>
+          <li><a href="https://www.linkedin.com/in/qianqiao">linkedin</a></li>
       </ul>
   </div>
 </div>
