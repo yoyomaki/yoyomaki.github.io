@@ -1,6 +1,7 @@
 ---
 layout: page
-title: projects
+title: Open Courses Notes
 ---
+<h1 id="Open Courses Notes">Open Courses Notes</h1>
 
-building....
+<a href=""{{ BASE_PATH }}/pages/publnotes/python_notes.html"">Data Processing Using Python on Coursera, Li Zhang, Nanjing University</a>
