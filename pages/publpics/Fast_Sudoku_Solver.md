@@ -49,8 +49,8 @@ bool solve(vector<vector<char>>& board){
 } 
 </code></pre></div>
 
----
-**Figure 3**. &mdash; bTotal no. of observed recombination events in the 22
+
+<p>**Figure 3**. &mdash; cTotal no. of observed recombination events in the 22
 autosomes in each male and female meiosis, plotted by family (A and
 B) and against the age of the parent at the birth of the
-corresponding child (C and D).
+corresponding child (C and D).</p>
