@@ -55,9 +55,7 @@ bool isValid(vector<vector<char>>& board, int row , int column, char c){
     }
 };
 ```
-'''c++
 
-'''
 
 Broman KW, Murray JC, Sheffield VC, White RL, Weber JL (1998) Comprehensive human genetic maps: Individual
 and sex-specific variation in recombination. Am J Hum Genet 63:861-869
