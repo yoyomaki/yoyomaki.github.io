@@ -2,10 +2,6 @@
 layout: frontpage
 title: Fast Sudoku Solver
 ---
-<head>
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/default.min.css">
-</head>
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -19,7 +15,7 @@ A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
 
 
 <div>
-<pre><code> bool isValid(vector&lt;vector&lt;char&gt;&gt;&amp; board, int row , int column, char c){
+<pre><code> bool isVali_d(vector&lt;vector&lt;char&gt;&gt;&amp; board, int row , int column, char c){
       for (int i = 0; i &lt; 9; ++i)
           if (board[row][i] == c) return false;
       for (int j = 0; j &lt; 9; ++j)
@@ -32,7 +28,7 @@ A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
   } 
 </code></pre>
 </div>
-hjha
+haha
 
 ```cpp
 // determine the board is valid or not.
