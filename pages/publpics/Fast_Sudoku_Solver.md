@@ -13,7 +13,7 @@ title: Fast Sudoku Solver
 
 A general way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
 
-```
+```cpp
 // determine the board is valid or not.
 bool isValid(vector<vector<char>>& board, int row , int column, char c){
         for (int i = 0; i < 9; ++i)
