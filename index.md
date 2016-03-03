@@ -31,7 +31,7 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/Fast_Sudoku_Solver.html">
+    <a href="pages/projects/Fast_Sudoku_Solver.html">
         <img src="assets/publpics/Sudoku_solver_cover.png" alt="Fast Sudoku Solver" title="Fast Sudoku Solver"/>
     </a>
   </td>
