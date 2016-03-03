@@ -2,6 +2,10 @@
 layout: frontpage
 title: Fast Sudoku Solver
 ---
+<head>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/default.min.css">
+</head>
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -13,11 +17,10 @@ title: Fast Sudoku Solver
 
 A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
 
+
 <div>
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/default.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/highlight.min.js"></script>
 <pre><code class="cpp">
-//
+////
 bool isValid(vector<vector<char>>& board, int row , int column, char c){
      for (int i = 0; i < 9; ++i)
          if (board[row][i] == c) return false;
