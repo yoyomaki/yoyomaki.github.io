@@ -16,16 +16,16 @@ A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
 ```cpp
 // determine the board is valid or not.
 bool isValid(vector<vector<char>>& board, int row , int column, char c){
-        for (int i = 0; i < 9; ++i)
-            if (board[row][i] == c) return false;
-        for (int j = 0; j < 9; ++j)
-            if (board[j][column] == c) return false;
-        for (int i = 0; i < 3; ++i)
-            for (int j = 0; j < 3; ++j)
-                if (board[row / 3 * 3 + i][column / 3 * 3 + j] == c)
+     for (int i = 0; i < 9; ++i)
+         if (board[row][i] == c) return false;
+         for (int j = 0; j < 9; ++j)
+             if (board[j][column] == c) return false;
+         for (int i = 0; i < 3; ++i)
+             for (int j = 0; j < 3; ++j)
+                 if (board[row / 3 * 3 + i][column / 3 * 3 + j] == c)
                     return false;
-        return true;
-    }
+     return true;
+}
 //empty cell is represented by char '.'
 bool solve(vector<vector<char>>& board){
      for (int i = 0; i < 9; ++i){
