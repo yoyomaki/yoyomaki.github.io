@@ -7,8 +7,9 @@ description: Data Processing Using Python
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/default.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 
-<pre><code> bool isVali_d(vector&lt;vector&lt;char&gt;&gt;&amp; board, int row , int column, char c){
+<pre><code class="cpp"> bool isVali_d(vector&lt;vector&lt;char&gt;&gt;&amp; board, int row , int column, char c){
       for (int i = 0; i &lt; 9; ++i)
           if (board[row][i] == c) return false;
       for (int j = 0; j &lt; 9; ++j)
@@ -20,7 +21,7 @@ description: Data Processing Using Python
       return true;
   } 
 </code></pre>
-haha
+haha2
 
 <pre><code>2016/02/20
 Li Zhang
