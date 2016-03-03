@@ -11,7 +11,7 @@ title: Fast Sudoku Solver
   </div>
 </div>
 
-A general way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
+A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
 
 ```cpp
 // determine the board is valid or not.
@@ -26,34 +26,24 @@ bool isValid(vector<vector<char>>& board, int row , int column, char c){
                     return false;
         return true;
     }
-    bool solve(vector<vector<char>>& board) 
-    {
-        for (int i = 0; i < 9; ++i)
-        {
-            for (int j = 0; j < 9; ++j)
-            {
-                if ('.' == board[i][j]) 
-                {
-                    for (int k = 0; k < 9; ++k)
-                    {
-                        if (isValid(board, i, j, '1' + k)) 
-                        {
-                            board[i][j] = '1' + k;
-                            if (solve(board)) return true;
-                            else board[i][j] = '.';
-                        }
+//empty cell is represented by char '.'
+bool solve(vector<vector<char>>& board){
+     for (int i = 0; i < 9; ++i){
+         for (int j = 0; j < 9; ++j){
+             if ('.' == board[i][j]){
+                for (int k = 0; k < 9; ++k){
+                    if (isValid(board, i, j, '1' + k)){
+                       board[i][j] = '1' + k;
+                       if (solve(board)) return true;
+                       else board[i][j] = '.';
                     }
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-    void solveSudoku(vector<vector<char>>& board) 
-    {
-        solve(board);
-    }
-};
+                 }
+                 return false;
+             }
+          }
+      }
+      return true;
+}
 ```
 
 **Figure 3**. &mdash; Total no. of observed recombination events in the 22
