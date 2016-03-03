@@ -13,7 +13,7 @@ title: Fast Sudoku Solver
 
 A general way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
 
-```C++
+```c++
 // determine the board is valid or not.
 bool isValid(vector<vector<char>>& board, int row , int column, char c){
         for (int i = 0; i < 9; ++i)
@@ -55,14 +55,6 @@ bool isValid(vector<vector<char>>& board, int row , int column, char c){
     }
 };
 ```
-
-
-Broman KW, Murray JC, Sheffield VC, White RL, Weber JL (1998) Comprehensive human genetic maps: Individual
-and sex-specific variation in recombination. Am J Hum Genet 63:861-869
-[![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9718341)
-[![pdf (534k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
-
-![Broman et al. (1998) Fig 3](../../assets/bigpublpics/geneticmaps_fig3_lg.png)
 
 **Figure 3**. &mdash; Total no. of observed recombination events in the 22
 autosomes in each male and female meiosis, plotted by family (A and
