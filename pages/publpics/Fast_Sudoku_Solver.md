@@ -2,12 +2,9 @@
 layout: frontpage
 title: Fast Sudoku Solver
 ---
-<head>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/default.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
-</head>
-
 
 <div class="navbar">
   <div class="navbar-inner">
@@ -53,7 +50,10 @@ bool solve(vector<vector<char>>& board){
 </code></pre></div>
 
 
-<div><p>**Figure 3**. &mdash; cTotal no. of observed recombination events in the 22
+Total no. of observed recombination events in the 22
 autosomes in each male and female meiosis, plotted by family (A and
 B) and against the age of the parent at the birth of the
-corresponding child (C and D).</p></div>
+corresponding child (C and D).      
+
+jahdjkha
+
