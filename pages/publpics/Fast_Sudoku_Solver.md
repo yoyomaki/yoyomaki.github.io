@@ -17,7 +17,7 @@ title: Fast Sudoku Solver
 
 <h4><a name="Fast Sudoku Solver"></a>Fast Sudoku Solver</h4>
 
-A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code1:
+A generic way to solve a Sudoku puzzle is to use recursion. Here is a sample code:
 
 ```cpp
 // determine the board is valid or not.
@@ -68,8 +68,11 @@ A table keeps recording legal moves for each variable after each step.
 1. Select unassigned variable x using most constrained and most constraining heuristics.
 2. Order legal moves of x as {x1,...,xn} by least constraining heuristics. 
 3. Assign x = x1, update legal-move table, and move to next variable.
-
 ```
+
+The plot of average number of search steps performed on 10 random generated instances with different number of numbers given on the board from 1 to 71.
+
+![Fast Sudoku Solver Performance Plot](../../assets/publpics/sudoku_plot.png)
 
 Source code is coming.
 
