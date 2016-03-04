@@ -15,6 +15,8 @@ title: Fast Sudoku Solver
   </div>
 </div>
 
+<h4><a name="Fast Sudoku Solver"></a>Fast Sudoku Solver</h4>
+
 A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code1:
 
 ```cpp
@@ -50,11 +52,25 @@ bool solve(vector<vector<char>>& board){
 } 
 ```
 
+However, this algorithm has a bad performance on instance with 30~40 numbers that are given on the board out of 81 numbers. The Fast Sudoku Solver is using:
 
-ATotal no. of observed recombination events in the 22
-autosomes in each male and female meiosis, plotted by family (A and
-B) and against the age of the parent at the birth of the
-corresponding child (C and D).      
+ 1. Backtracking: back up to the preceding variable and try a different assignment for it.
+ 
+ 2. Forward checking: keep track of remaining legal values forunassigned variables, and terminate search when any variable has nolegal values.
+ 
+ 3. Heuristics: choose the variable which has the fewest “legal” moves (AKA minimum remaining values heuristics). For tie-breaker among most constrained variables, choose variable with most constraints on remaining variables. Given a variable, choose the least constraining value, which is the one that rules out the fewest values in the remaining variables.
 
-1234
+```
+pseudo code:
+A table keeps recording legal moves for each variable after each step.
+ 
+0. If there is an variable has no legal moves, backtrack.
+1. Select unassigned variable x using most constrained and most constraining heuristics.
+2. Order legal moves of x as {x1,...,xn} by least constraining heuristics. 
+3. Assign x = x1, update legal-move table, and move to next variable.
+
+```
+
+Source code is coming.
+
 
