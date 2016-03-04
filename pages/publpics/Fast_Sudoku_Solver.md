@@ -15,7 +15,7 @@ title: Fast Sudoku Solver
   </div>
 </div>
 
-A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
+A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code1:
 
 ```cpp
 // determine the board is valid or not.
