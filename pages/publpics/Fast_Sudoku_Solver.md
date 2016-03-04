@@ -17,7 +17,7 @@ title: Fast Sudoku Solver
 
 A generic way to solve a Sudoku puzzle is to use DFS. Here is a sample code:
 
-```
+```cpp
 // determine the board is valid or not.
 bool isValid(vector<vector<char>>& board, int row , int column, char c){
      for (int i = 0; i < 9; ++i)
@@ -56,5 +56,5 @@ autosomes in each male and female meiosis, plotted by family (A and
 B) and against the age of the parent at the birth of the
 corresponding child (C and D).      
 
-123
+1234
 
