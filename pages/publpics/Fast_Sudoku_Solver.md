@@ -72,7 +72,7 @@ A table keeps recording legal moves for each variable after each step.
 
 The plot of average number of search steps performed on 10 random generated instances with different number of numbers given on the board from 1 to 71.
 
-![Fast Sudoku Solver Performance Plot](../../assets/publpics/sudoku_plot.png)
+![Fast Sudoku Solver Performance Plot](../../assets/publpics/sudoku_plot.jpg)
 
 Source code is coming.
 
