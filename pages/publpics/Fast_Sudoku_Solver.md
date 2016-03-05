@@ -70,9 +70,11 @@ A table keeps recording legal moves for each variable after each step.
 3. Assign x = x1, update legal-move table, and move to next variable.
 ```
 
-The plot of average number of search steps performed on 10 random generated instances with different number of numbers given on the board from 1 to 71.
+The plot of average number of search steps performed on 71*10 random generated instances with the number of empty cells on the board from 10 to 80.
 
 ![Fast Sudoku Solver Performance Plot](../../assets/publpics/sudoku_plot.jpg)
+
+You can check all sample puzzles I used to test from [here](https://github.com/yoyomaki/fast-sudoku-solver.git)
 
 Source code is coming.
 
