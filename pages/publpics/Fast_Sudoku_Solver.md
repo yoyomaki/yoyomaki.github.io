@@ -56,7 +56,7 @@ However, this algorithm has a bad performance on instance with 30~40 numbers tha
  
  3. Heuristics: choose the variable which has the fewest “legal” moves (AKA minimum remaining values heuristics). For tie-breaker among most constrained variables, choose variable with most constraints on remaining variables. Given a variable, choose the least constraining value, which is the one that rules out the fewest values in the remaining variables.
 
-```
+```nohighlight
 pseudo code:
 A table keeps recording legal moves for each variable after each step.
  
