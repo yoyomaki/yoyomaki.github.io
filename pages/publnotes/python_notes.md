@@ -6,7 +6,7 @@ description: Data Processing Using Python
 
 
 ```cpp
-bool isVali_d(vector&lt;vector&lt;char&gt;&gt;&amp; board, int row , int column, char c){
+bool isValid(vector<vector<char>>& board, int row , int column, char c){
       for (int i = 0; i &lt; 9; ++i)
           if (board[row][i] == c) return false;
       for (int j = 0; j &lt; 9; ++j)
