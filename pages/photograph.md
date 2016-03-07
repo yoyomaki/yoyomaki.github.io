@@ -27,22 +27,12 @@ building....
         <img src="https://farm2.staticflickr.com/1451/25597328215_8ee0796595_t.jpg" alt="p2">
     </a>
     <a href="https://farm2.staticflickr.com/1511/24966860024_db391fe1cc_b.jpg" title="p3">
-        <img scr="https://farm2.staticflickr.com/1511/24966860024_db391fe1cc_t.jpg" title="p3">
-</div>
-
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
+        <img src="https://farm2.staticflickr.com/1511/24966860024_db391fe1cc_t.jpg" alt="p3">
+    </a>
 </div>
 
 
 <script src="../assets/js/blueimp-gallery.min.js"></script>
-
 <script>
 document.getElementById('links').onclick = function (event) {
     event = event || window.event;
