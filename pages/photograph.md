@@ -38,6 +38,8 @@ building....
     <ol class="indicator"></ol>
 </div>
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140787440@N03/25597328215/in/dateposted-public/" title="3"><img src="https://farm2.staticflickr.com/1451/25597328215_8ee0796595_b.jpg" width="1000" height="1000" alt="3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 <script src="../assets/js/blueimp-gallery.min.js"></script>
 
