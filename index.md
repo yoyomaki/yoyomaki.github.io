@@ -79,9 +79,8 @@ I am a senior student at [University of Waterloo](https://uwaterloo.ca), double 
         </div>
 
         <div class="span2">
-        <a href="assets/pics/Qian_2015.jpg">
-            <img src="assets/pics/Qian_2015_small.jpg"
-                  title="Qian Qiao" alt="Qian Qiao"/></a>
+        <img src="assets/pics/Qian_2015_small.jpg"
+                  title="Qian Qiao" alt="Qian Qiao"/>
         </div>
     </div>
 </div>
